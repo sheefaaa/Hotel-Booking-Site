@@ -10,7 +10,7 @@ A simple hotel booking website built using HTML and CSS.
 
 ## Live Demo
 
-[Click here to view live](#) <!-- Replace # with your live site URL -->
+[Click here to view live](https://sheefaaa.github.io/Hotel-Booking-Site/) <!-- Replace # with your live site URL -->
 
 ## Technologies Used
 
